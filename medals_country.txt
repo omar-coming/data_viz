@@ -1,0 +1,180 @@
+CAN, Gold, 315
+CAN, Silver, 203
+CAN, Bronze, 107
+
+AUS, Gold, 5
+AUS, Silver, 3
+AUS, Bronze, 7
+
+AUT, Gold, 80
+AUT, Silver, 99
+AUT Bronze, 103
+
+BEL, Gold, 2
+BEL, Silver, 4
+BEL, Bronze, 7
+
+BLR, Gold, 6
+BLR, Silver, 4
+BLR, Bronze, 5
+
+BUL, Gold, 1
+BUL, Silver, 2
+BUL, Bronze, 3
+
+CHN, Gold, 16
+CHN, Silver, 30
+CHN, Bronze, 36
+
+CRO, Gold, 4
+CRO, Silver, 6
+CRO, Bronze, 1
+
+CZE, Gold, 28
+CZE, Silver, 12
+CZE, Bronze, 35
+
+DEN, Gold, 0
+DEN, Silver, 5
+DEN, Bronze, 0
+
+ESP, Gold, 1
+ESP, Silver, 0
+ESP, Bronze, 1
+
+EST, Gold, 4
+EST, Silver, 2
+EST, Bronze, 1
+
+EUA, Gold, 8
+EUA, Silver, 8
+EUA, Bronze, 5
+
+POL, Gold, 6
+POL, Silver, 10
+POL, Bronze, 11
+
+EUN, Gold, 14
+EUN, Silver, 10
+EUN, Bronze, 14
+
+FIN, Gold, 66
+FIN, Silver, 147
+FIN, Bronze, 221
+
+FRA, Gold, 36
+FRA, Silver, 35
+FRA, Bronze, 81
+
+FRG, Gold, 23
+FRG, Silver, 24
+FRG, Bronze, 47
+
+GBR, Gold, 34
+GBR, Silver, 11
+GBR, Bronze, 34
+
+GDR, Gold, 58
+GDR, Silver, 50
+GDR, Bronze, 54
+
+GER, Gold, 0
+GER, Silver, 0
+GER, Bronze, 0
+
+HUN, Gold, 0
+HUN, Silver, 4
+HUN, Bronze, 8
+
+ITA, Gold, 0
+ITA, Silver, 0
+ITA, Bronze, 0
+
+JPN, Gold, 17
+JPN, Silver, 22
+JPN, Bronze, 24
+
+KAZ, Gold, 0
+KAZ, Silver, 0
+KAZ, Bronze, 0
+
+KOR, Gold, 51
+KOR, Silver, 26
+KOR, Bronze, 10
+
+LAT, Gold, 0
+LAT, Silver, 8
+LAT, Bronze, 7
+
+LIE, Gold, 2
+LIE, Silver, 2
+LIE, Bronze, 5
+
+LUX, Gold, 0
+LUX, Silver, 2
+LUX, Bronze, 0
+
+NED, Gold, 42
+NED, Silver, 38
+NED, Bronze, 42
+
+NOR, Gold, 159
+NOR, Silver, 171
+NOR, Bronze, 127
+
+NZL, Gold, 0
+NZL, Silver, 1
+NZL, Bronze, 0
+
+PRK, Gold, 0
+PRK, Silver, 1
+PRK, Bronze, 1
+
+ROU, Gold, 0
+ROU, Silver, 0
+ROU, Bronze, 2
+
+RUS, Gold, 94
+RUS, Silver, 90
+RUS, Bronze, 79
+
+SLO, Gold, 2
+SLO, Silver, 4 
+SLO, Bronze, 12
+
+SUI, Gold, 76
+SUI, Silver, 77
+SUI, Bronze, 132
+
+SVK, Gold, 2
+SVK, Silver, 2
+SVK, Bronze, 1
+
+SWE, Gold, 127
+SWE, Silver, 129
+SWE, Bronze, 177
+
+TCH, Gold, 2
+TCH, Silver, 80 
+TCH, Bronze, 76
+
+UKR, Gold, 5
+UKR, Silver, 1 
+UKR, Bronze, 5
+
+URS, Gold, 250
+URS, Silver, 97
+URS, Bronze, 93
+
+USA, Gold, 167
+USA, Silver, 319
+USA, Bronze, 167
+
+UZB, Gold, 1
+UZB, Silver, 0
+UZB, Bronze, 0
+
+YUR, Gold, 0
+YUR, Silver, 6 
+YUR, Bronze, 1
+

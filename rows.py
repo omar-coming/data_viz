@@ -1,6 +1,9 @@
 import csv
 import sys
 
+# fr = file of data being read
+# fw = output file of sorted data
+
 try :
     fr = open("data.csv")
     fw = open("total_medals_country.csv", "w")
@@ -16,6 +19,7 @@ for row in reader :
         counterlist.append(row[5])
     #for item in counterlist :
     #    print counterlist.count(item)
+
 
 writer = csv.writer(fw)
 data = ["MEDALS", "Count"]
