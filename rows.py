@@ -22,7 +22,7 @@ for row in reader :
 
 
 writer = csv.writer(fw)
-data = ["MEDALS", "Count"]
+data = ["COUNTRY", "Count"]
 writer.writerow(data)
 for item in counterlist :
     rowdata = [item, counterlist.count(item)]

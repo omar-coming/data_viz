@@ -142,7 +142,7 @@ Year,City,Sport,Athlete,Country,Gender,Event,Medal
 1928,St.Moritz,Skating,THUNBERG, Clas,FIN,Men,500M,Gold
 1928,St.Moritz,Skating,BRUNET, Andr��e,FRA,Women,Pairs,Gold
 1928,St.Moritz,Skating,BRUNET, Pierre,FRA,Men,Pairs,Gold
-1928,St.Moritz,Bobsleigh,NORTHESK, David, Earl of,GBR,Men,Individual,Bronze
+1928,St.Moritz,Bobsleigh,NORTHESK, David, GBR,Men,Individual,Bronze
 1928,St.Moritz,Bobsleigh,HESS, Hans,GER,Men,Five-Man,Bronze
 1928,St.Moritz,Bobsleigh,HUBER, Sebastian,GER,Men,Five-Man,Bronze
 1928,St.Moritz,Bobsleigh,KILIAN, Hanns,GER,Men,Five-Man,Bronze
@@ -4645,10 +4645,10 @@ Year,City,Sport,Athlete,Country,Gender,Event,Medal
 2010,Vancouver,Skiing,FISCHBACHER, Andrea,AUT,Women,Super-G,Gold
 2010,Vancouver,Skiing,MATT, Andreas,AUT,Men,Ski Cross,Silver
 2010,Vancouver,Skiing,GRUBER, Bernhard,AUT,Men,Sprint K120,Bronze
-2010,Vancouver,Skiing,GOTTWALD, Felix,AUT,Men,Team, 4X5 KM,Gold
-2010,Vancouver,Skiing,GRUBER, Bernhard,AUT,Men,Team, 4X5 KM,Gold
-2010,Vancouver,Skiing,KREINER, David,AUT,Men,Team, 4X5 KM,Gold
-2010,Vancouver,Skiing,STECHER, Mario,AUT,Men,Team, 4X5 KM,Gold
+2010,Vancouver,Skiing,GOTTWALD, Felix,AUT,Men,Team, Gold
+2010,Vancouver,Skiing,GRUBER, Bernhard,AUT,Men,Team, Gold
+2010,Vancouver,Skiing,KREINER, David,AUT,Men,Team, Gold
+2010,Vancouver,Skiing,STECHER, Mario,AUT,Men,Team, Gold
 2010,Vancouver,Skiing,SCHLIERENZAUER, Gregor,AUT,Men,K120 Individual (90M),Bronze
 2010,Vancouver,Skiing,KOFLER, Andreas,AUT,Men,K120 Team (90M),Gold
 2010,Vancouver,Skiing,LOITZL, Wolfgang,AUT,Men,K120 Team (90M),Gold
@@ -4844,7 +4844,7 @@ Year,City,Sport,Athlete,Country,Gender,Event,Medal
 2010,Vancouver,Biathlon,DORIN, Marie,FRA,Women,4X6KM Relay,Silver
 2010,Vancouver,Biathlon,DORIN, Marie,FRA,Women,7.5KM,Bronze
 2010,Vancouver,Skiing,JOSSERAND, Marion,FRA,Women,Ski Cross,Bronze
-2010,Vancouver,Skiing,LAMY CHAPPUIS, Jason,FRA,Men,Individual, Ski Jumping K90 (70M),Gold
+2010,Vancouver,Skiing,LAMY CHAPPUIS, Jason,FRA,Men,Individual,Gold
 2010,Vancouver,Skiing,BOZZETTO, Mathieu,FRA,Men,Giant Parallel Slalom,Bronze
 2010,Vancouver,Skiing,RAMOIN, Tony,FRA,Men,Snowboard Cross,Bronze
 2010,Vancouver,Skiing,ANTHONIOZ, Deborah,FRA,Women,Snowboard Cross,Silver
@@ -4895,10 +4895,10 @@ Year,City,Sport,Athlete,Country,Gender,Event,Medal
 2010,Vancouver,Skiing,TSCHARNKE, Tim,GER,Men,Team Sprint,Silver
 2010,Vancouver,Skiing,NYSTAD, Claudia,GER,Women,Team Sprint,Gold
 2010,Vancouver,Skiing,SACHENBACHER-STEHLE, Evi,GER,Women,Team Sprint,Gold
-2010,Vancouver,Skiing,EDELMANN, Tino,GER,Men,Team, 4X5 KM,Bronze
-2010,Vancouver,Skiing,FRENZEL, Eric,GER,Men,Team, 4X5 KM,Bronze
-2010,Vancouver,Skiing,KIRCHEISEN, Bjoern,GER,Men,Team, 4X5 KM,Bronze
-2010,Vancouver,Skiing,RYDZEK, Johannes,GER,Men,Team, 4X5 KM,Bronze
+2010,Vancouver,Skiing,EDELMANN, Tino,GER,Men,Team, Bronze
+2010,Vancouver,Skiing,FRENZEL, Eric,GER,Men,Team, Bronze
+2010,Vancouver,Skiing,KIRCHEISEN, Bjoern,GER,Men,Team, Bronze
+2010,Vancouver,Skiing,RYDZEK, Johannes,GER,Men,Team, Bronze
 2010,Vancouver,Skiing,NEUMAYER, Michael,GER,Men,K120 Team (90M),Silver
 2010,Vancouver,Skiing,SCHMITT, Martin,GER,Men,K120 Team (90M),Silver
 2010,Vancouver,Skiing,UHRMANN, Michael,GER,Men,K120 Team (90M),Silver
@@ -4907,7 +4907,7 @@ Year,City,Sport,Athlete,Country,Gender,Event,Medal
 2010,Vancouver,Skating,FONTANA, Arianna,ITA,Women,500M,Bronze
 2010,Vancouver,Skiing,RAZZOLI, Giuliano,ITA,Men,Slalom,Gold
 2010,Vancouver,Skiing,PILLER COTTRER, Pietro,ITA,Men,15KM,Silver
-2010,Vancouver,Skiing,PITTIN, Alessandro,ITA,Men,Individual, Ski Jumping K90 (70M),Bronze
+2010,Vancouver,Skiing,PITTIN, Alessandro,ITA,Men,Individual,Bronze
 2010,Vancouver,Skating,TAKAHASHI, Daisuke,JPN,Men,Individual,Bronze
 2010,Vancouver,Skating,ASADA, Mao,JPN,Women,Individual,Silver
 2010,Vancouver,Skating,KATO, Joji,JPN,Men,500M,Bronze
@@ -5145,13 +5145,13 @@ Year,City,Sport,Athlete,Country,Gender,Event,Medal
 2010,Vancouver,Skiing,WILSON, Bryon,USA,Men,Moguls,Bronze
 2010,Vancouver,Skiing,BAHRKE, Shannon,USA,Women,Moguls,Bronze
 2010,Vancouver,Skiing,KEARNEY, Hannah,USA,Women,Moguls,Gold
-2010,Vancouver,Skiing,SPILLANE, Johnny,USA,Men,Individual, Ski Jumping K90 (70M),Silver
+2010,Vancouver,Skiing,SPILLANE, Johnny,USA,Men,Individual,Silver
 2010,Vancouver,Skiing,DEMONG, Bill,USA,Men,Sprint K120,Gold
 2010,Vancouver,Skiing,SPILLANE, Johnny,USA,Men,Sprint K120,Silver
-2010,Vancouver,Skiing,CAMEROTA, Brett,USA,Men,Team, 4X5 KM,Silver
-2010,Vancouver,Skiing,DEMONG, Bill,USA,Men,Team, 4X5 KM,Silver
-2010,Vancouver,Skiing,LODWICK, Todd,USA,Men,Team, 4X5 KM,Silver
-2010,Vancouver,Skiing,SPILLANE, Johnny,USA,Men,Team, 4X5 KM,Silver
+2010,Vancouver,Skiing,CAMEROTA, Brett,USA,Men,Team, Silver
+2010,Vancouver,Skiing,DEMONG, Bill,USA,Men,Team, Silver
+2010,Vancouver,Skiing,LODWICK, Todd,USA,Men,Team, Silver
+2010,Vancouver,Skiing,SPILLANE, Johnny,USA,Men,Team, Silver
 2010,Vancouver,Skiing,LAGO, Scott,USA,Men,Half-Pipe,Bronze
 2010,Vancouver,Skiing,WHITE, Shaun,USA,Men,Half-Pipe,Gold
 2010,Vancouver,Skiing,CLARK, Kelly,USA,Women,Half-Pipe,Bronze
@@ -5176,10 +5176,10 @@ Year,City,Sport,Athlete,Country,Gender,Event,Medal
 2014,Sochi,Skiing,HOSP, Nicole,AUT,Women,Super Combined,Silver
 2014,Sochi,Skiing,FENNINGER, Anna,AUT,Women,Super-G,Gold
 2014,Sochi,Skiing,HOSP, Nicole,AUT,Women,Super-G,Bronze
-2014,Sochi,Skiing,BIELER, Christoph,AUT,Men,Team, 4X5 KM,Bronze
-2014,Sochi,Skiing,GRUBER, Bernhard,AUT,Men,Team, 4X5 KM,Bronze
-2014,Sochi,Skiing,KLAPFER, Lukas,AUT,Men,Team, 4X5 KM,Bronze
-2014,Sochi,Skiing,STECHER, Mario,AUT,Men,Team, 4X5 KM,Bronze
+2014,Sochi,Skiing,BIELER, Christoph,AUT,Men,Team, Bronze
+2014,Sochi,Skiing,GRUBER, Bernhard,AUT,Men,Team, Bronze
+2014,Sochi,Skiing,KLAPFER, Lukas,AUT,Men,Team, Bronze
+2014,Sochi,Skiing,STECHER, Mario,AUT,Men,Team, Bronze
 2014,Sochi,Skiing,DIETHART, Thomas,AUT,Men,Teams,Silver
 2014,Sochi,Skiing,HAYBOECK, Michael,AUT,Men,Teams,Silver
 2014,Sochi,Skiing,MORGENSTERN, Thomas,AUT,Men,Teams,Silver
@@ -5397,10 +5397,10 @@ Year,City,Sport,Athlete,Country,Gender,Event,Medal
 2014,Sochi,Skiing,NYSTAD, Claudia,GER,Women,4X5KM Relay,Bronze
 2014,Sochi,Skiing,FRENZEL, Eric,GER,Men,Ind. K90 (70M),Gold
 2014,Sochi,Skiing,RIESSLE, Fabian,GER,Men,Sprint K120,Bronze
-2014,Sochi,Skiing,FRENZEL, Eric,GER,Men,Team, 4X5 KM,Silver
-2014,Sochi,Skiing,KIRCHEISEN, Bjoern,GER,Men,Team, 4X5 KM,Silver
-2014,Sochi,Skiing,RIESSLE, Fabian,GER,Men,Team, 4X5 KM,Silver
-2014,Sochi,Skiing,RYDZEK, Johannes,GER,Men,Team, 4X5 KM,Silver
+2014,Sochi,Skiing,FRENZEL, Eric,GER,Men,Team, Silver
+2014,Sochi,Skiing,KIRCHEISEN, Bjoern,GER,Men,Team, Silver
+2014,Sochi,Skiing,RIESSLE, Fabian,GER,Men,Team, Silver
+2014,Sochi,Skiing,RYDZEK, Johannes,GER,Men,Team, Silver
 2014,Sochi,Skiing,FREUND, Severin,GER,Men,Teams,Gold
 2014,Sochi,Skiing,KRAUS, Marinus,GER,Men,Teams,Gold
 2014,Sochi,Skiing,WANK, Andreas,GER,Men,Teams,Gold
@@ -5518,10 +5518,10 @@ Year,City,Sport,Athlete,Country,Gender,Event,Medal
 2014,Sochi,Skiing,KROG, Magnus,NOR,Men,Ind. K90 (70M),Bronze
 2014,Sochi,Skiing,GRAABAK, Joergen,NOR,Men,Sprint K120,Gold
 2014,Sochi,Skiing,MOAN, Magnus Hovdal,NOR,Men,Sprint K120,Silver
-2014,Sochi,Skiing,GRAABAK, Joergen,NOR,Men,Team, 4X5 KM,Gold
-2014,Sochi,Skiing,KLEMETSEN, Haavard,NOR,Men,Team, 4X5 KM,Gold
-2014,Sochi,Skiing,KROG, Magnus,NOR,Men,Team, 4X5 KM,Gold
-2014,Sochi,Skiing,MOAN, Magnus Hovdal,NOR,Men,Team, 4X5 KM,Gold
+2014,Sochi,Skiing,GRAABAK, Joergen,NOR,Men,Team, Gold
+2014,Sochi,Skiing,KLEMETSEN, Haavard,NOR,Men,Team, Gold
+2014,Sochi,Skiing,KROG, Magnus,NOR,Men,Team, Gold
+2014,Sochi,Skiing,MOAN, Magnus Hovdal,NOR,Men,Team, Gold
 2014,Sochi,Skiing,BARDAL, Anders,NOR,Men,Normal Hill,Bronze
 2014,Sochi,Skiing,SANDBECH, Staale,NOR,Men,Slopestyle,Silver
 2014,Sochi,Skating,BRODKA, Zbigniew,POL,Men,1500M,Gold
